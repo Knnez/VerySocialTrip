@@ -1,8 +1,7 @@
-body{
+.main-container{
     width: 940px;
     margin: 0 auto;
-    font-family: "Delius-Regular";
-    src: url("../../font/Delius-Regular.ttf") format("ttf");
+	src: url("../../font/Delius-Regular.ttf") format("ttf");
 }
 
 .logo, .photo{

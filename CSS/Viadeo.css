@@ -1,14 +1,16 @@
 @font-face {
     font-family: "delius-regular";
     src: url("../font/delius-regular-webfont.woff2") format("woff2"),
-        url("../font/delius-regular-webfont.woff")format("woff");
+        url("../font/delius-regular-webfont.woff") format("woff");
 }
 
-body {
+.main-container{
     width: 940px;
     margin: 0 auto;
-    font-family: "delius-regular";
+	src: url("../../font/Delius-Regular.ttf") format("ttf");
 }
+
+
 
 h1 {
     text-align: center;
