@@ -10,12 +10,15 @@
 }
 
 body {
-  position: relative;
-  height: 700px;
-  font-family: 'deliusregular';
-  margin: 0px;
-  background: #EFDD36;
-}
+    position: relative;
+    height: 700px;
+    
+    background: #EFDD36;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: x-small;
+  }
+
+  
   
 header {
   text-align: center;
@@ -44,12 +47,16 @@ header {
 
 footer {
   position: fixed;
-
+  
+color:#EFDD36;
+font-size:large;
   bottom: 0;
   right: 0;
   left: 0;
   border-top: 2px solid #f6f6f6;
   background-color: #f6f6f6;
+  padding-left: 35px;
+  text-shadow: 1px 1px #caba2b;
 }
 
 

@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 @font-face {
     font-family: "delius-regular";
     src: url("../font/delius-regular-webfont.woff2") format ("woff2");
@@ -8,6 +9,12 @@ body{
     width: 940px;
     margin: 0 auto;
     font-family: "Delius-Regular";
+=======
+.main-container{
+    width: 940px;
+    margin: 0 auto;
+	src: url("../../font/Delius-Regular.ttf") format("ttf");
+>>>>>>> 4e375a1cfc82057ac67a261752e9dca16f5e1040
 }
 
 .logo, .photo{
