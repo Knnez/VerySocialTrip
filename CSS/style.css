@@ -1,3 +1,14 @@
+
+
+@font-face {
+    font-family: 'deliusregular';
+    src: url('../font/delius-regular-webfont.woff') format('woff2'),
+         url('../font/delius-regular-webfont.woff2') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
 header {
   text-align: center;
   border-bottom: 2px solid #efdd36;
@@ -7,6 +18,10 @@ header {
 body {
   position: relative;
   height: 700px;
+  font-family: 'deliusregular';
+  margin: 0px;
+  background: #EFDD36;
+  
 }
 
 footer {
@@ -16,14 +31,6 @@ footer {
   right: 0;
   left: 0;
   border-top: 2px solid #efdd36;
-}
-
-
-body {
-    margin: 0px;
-    background: #EFDD36;
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    font-size: x-small;
 }
 
 #conteneur0 {
