@@ -9,20 +9,38 @@
 
 }
 
-header {
-  text-align: center;
-  border-bottom: 2px solid #efdd36;
-  height:50px;
-}
-
 body {
   position: relative;
   height: 700px;
   font-family: 'deliusregular';
   margin: 0px;
   background: #EFDD36;
-  
 }
+  
+header {
+  text-align: center;
+
+  margin: -10px;
+  height:80px;
+
+  background-color: #f6f6f6;
+}
+.logo {
+    position: absolute;
+    padding-top: 20px;
+    left: 15px;
+    width: 150px;
+   
+
+  }
+
+  .logo1 {justify-content: center;
+      padding-top: 13px;
+      height: 50px;
+      width: 500px;
+  }
+
+
 
 footer {
   position: fixed;
@@ -30,8 +48,12 @@ footer {
   bottom: 0;
   right: 0;
   left: 0;
-  border-top: 2px solid #efdd36;
+  border-top: 2px solid #f6f6f6;
+  background-color: #f6f6f6;
 }
+
+
+
 
 #conteneur0 {
     width: auto;
@@ -42,28 +64,6 @@ footer {
 }
 
 #conteneur1 {
-    height: 400px;
-    width: 300px;
-    border-width: 1px;
-    border-style: solid;
-    border-color: #EFDD36;
-    background-color: white;
-
-    border-radius: 10%;
-}
-
-#conteneur2 {
-    height: 400px;
-    width: 300px;
-    border-width: 1px;
-    border-style: solid;
-    border-color: #EFDD36;
-    background-color:
-        white;
-    border-radius: 10%;
-}
-
-#conteneur3 {
     width: 300px;
     border-width: 1px;
     border-style: solid;
@@ -74,7 +74,32 @@ footer {
 padding-bottom: 50px;
 }
 
-#logoFB {
+#conteneur2 {
+    width: 300px;
+    border-width: 1px;
+    border-style: solid;
+    border-color: #EFDD36;
+    background-color:
+        white;
+    border-radius: 10%;
+padding-bottom: 50px;
+}
+
+#conteneur3 {
+   
+    height: 400px;
+    width: 250px;
+    border-width: 1px;
+    border-style: solid;
+    border-color: #EFDD36;
+    background-color:
+        white;
+    border-radius: 10%;
+
+}
+
+
+#logoLinkedin {
     text-align: center;
     padding-top: 25px;
 }
