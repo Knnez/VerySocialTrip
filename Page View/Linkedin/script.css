@@ -20,7 +20,7 @@ aside{
 	margin: 0 0 20px 0;
 }
 
-aside > img{
+aside > {
     width: 500px;
 	padding: 20px;
 }
