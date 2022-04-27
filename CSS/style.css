@@ -56,6 +56,42 @@ body {
     height:60px;
     border-radius:50px;
     color:#fff;
-    text-align:center;
+    margin-left: 120px;
+    margin-top: 25px;
     background:grey;
+}
+
+#circle2 {
+    width: 60px;
+    height:60px;
+    border-radius:50px;
+    color:#fff;
+    margin-left: 120px;
+    margin-top: 25px;
+    background:grey;
+}
+
+#circle3 {
+    width: 60px;
+    height:60px;
+    border-radius:50px;
+    color:#fff;
+    margin-left: 120px;
+    margin-top: 25px;
+    background:grey;
+}
+
+#titreFB {
+    text-align: center;
+    margin-top: 450px;
+}
+
+#titreViadeo {
+    text-align: center;
+    margin-top: 450px;
+}
+
+#titreLinkedin {
+    text-align: center;
+    margin-top: 450px;
 }
