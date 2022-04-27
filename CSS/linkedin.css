@@ -1,27 +1,18 @@
-<<<<<<< HEAD
 @font-face {
     font-family: "delius-regular";
     src: url("../font/delius-regular-webfont.woff2") format ("woff2");
 	src: url("../font/delius-regular-webfont.woff") format ("woff");
 }
-
-body{
-    width: 940px;
-    margin: 0 auto;
-    font-family: "Delius-Regular";
-=======
 .main-container{
     width: 940px;
     margin: 0 auto;
 	src: url("../../font/Delius-Regular.ttf") format("ttf");
->>>>>>> 4e375a1cfc82057ac67a261752e9dca16f5e1040
 }
 
-.logo, .photo{
+.logo, .photo, .bg{
 	text-align: center;
     display: flex;
     flex-direction: column;
-    float: left;
 	padding-top: 30px;
 	padding-bottom: 10px;
 }
@@ -32,8 +23,10 @@ h1, h2{
 }
 
 aside{
-    float: left;
+	float: left;
 	text-align: center;
+	padding-top: 45px;
+	padding-bottom: 45px;
 }
 
 .legende{
