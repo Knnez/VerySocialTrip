@@ -1,8 +1,6 @@
 body {
     width: 940px;
     margin: 0 auto;
-    font-family: "Delius-Regular";
-    src: url("Delius-Regular") format("ttf");
 }
 
 h1 {
