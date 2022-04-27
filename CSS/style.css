@@ -1,0 +1,21 @@
+header {
+  text-align: center;
+  border-bottom: 2px solid #efdd36;
+  height:50px;
+}
+
+body {
+  position: relative;
+  height: 700px;
+}
+
+footer {
+  position: fixed;
+
+  bottom: 0;
+  right: 0;
+  left: 0;
+  border-top: 2px solid #efdd36;
+}
+
+
