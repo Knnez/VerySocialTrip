@@ -55,18 +55,6 @@ footer {
 }
 
 #conteneur1 {
-    height: 400px;
-    width: 300px;
-    border-width: 1px;
-    border-style: solid;
-    border-color: #EFDD36;
-    background-color: white;
-
-    border-radius: 10%;
-}
-
-#conteneur2 {
-    height: 400px;
     width: 300px;
     border-width: 1px;
     border-style: solid;
@@ -74,6 +62,18 @@ footer {
     background-color:
         white;
     border-radius: 10%;
+padding-bottom: 50px;
+}
+
+#conteneur2 {
+    width: 300px;
+    border-width: 1px;
+    border-style: solid;
+    border-color: #EFDD36;
+    background-color:
+        white;
+    border-radius: 10%;
+padding-bottom: 50px;
 }
 
 #conteneur3 {
@@ -89,7 +89,8 @@ footer {
 
 }
 
-#logoFB {
+
+#logoLinkedin {
     text-align: center;
     padding-top: 25px;
 }
