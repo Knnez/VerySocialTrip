@@ -1,9 +1,22 @@
 body{
-	margin: 0 auto;
+    width: 940px;
+    margin: 0 auto;
+    font-family: "Delius-Regular";
+    src: url("../../font/Delius-Regular.ttf") format("ttf");
+}
+
+.logo, .photo{
+	text-align: center;
+    display: flex;
+    flex-direction: column;
+    float: left;
+	padding-top: 30px;
+	padding-bottom: 10px;
 }
 
 h1, h2{
 	text-align: center;
+	text-decoration: underline;
 }
 
 aside{
@@ -11,8 +24,21 @@ aside{
 	text-align: center;
 }
 
-section{
-    float: right;
+.legende{
+	font-size: smaller;
+	font-style: italic;
+	text-align: center;
+}
+
+article{
+    display: flex;
+	flex-direction: column;
+	float: right;
+	justify-content: right;
+	width: 428px;
+	padding-left: 20px;
+	margin: 0 0 20px 0px;
+	border-left: 2px;
 }
 
 p{
