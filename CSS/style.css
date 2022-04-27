@@ -1,3 +1,24 @@
+header {
+  text-align: center;
+  border-bottom: 2px solid #efdd36;
+  height:50px;
+}
+
+body {
+  position: relative;
+  height: 700px;
+}
+
+footer {
+  position: fixed;
+
+  bottom: 0;
+  right: 0;
+  left: 0;
+  border-top: 2px solid #efdd36;
+}
+
+
 body {
     margin: 0px;
     background: #EFDD36;
@@ -47,7 +68,52 @@ padding-bottom: 50px;
 }
 
 
-#logoViadeo {
+#logoLinkedin {
     text-align: center;
     padding-top: 25px;
-    }
+}
+
+#circle1 {
+    width: 60px;
+    height:60px;
+    border-radius:50px;
+    color:#fff;
+    margin-left: 120px;
+    margin-top: 25px;
+    background:grey;
+}
+
+#circle2 {
+    width: 60px;
+    height:60px;
+    border-radius:50px;
+    color:#fff;
+    margin-left: 120px;
+    margin-top: 25px;
+    background:grey;
+}
+
+#circle3 {
+    width: 60px;
+    height:60px;
+    border-radius:50px;
+    color:#fff;
+    margin-left: 120px;
+    margin-top: 25px;
+    background:grey;
+}
+
+#titreFB {
+    text-align: center;
+    
+}
+
+#titreViadeo {
+    text-align: center;
+    
+}
+
+#titreLinkedin {
+    text-align: center;
+    margin-top: 450px;
+}
