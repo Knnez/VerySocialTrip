@@ -14,18 +14,6 @@ body {
 }
 
 #conteneur1 {
-    height: 400px;
-    width: 300px;
-    border-width: 1px;
-    border-style: solid;
-    border-color: #EFDD36;
-    background-color: white;
-
-    border-radius: 10%;
-}
-
-#conteneur2 {
-    height: 400px;
     width: 300px;
     border-width: 1px;
     border-style: solid;
@@ -33,6 +21,18 @@ body {
     background-color:
         white;
     border-radius: 10%;
+padding-bottom: 50px;
+}
+
+#conteneur2 {
+    width: 300px;
+    border-width: 1px;
+    border-style: solid;
+    border-color: #EFDD36;
+    background-color:
+        white;
+    border-radius: 10%;
+padding-bottom: 50px;
 }
 
 #conteneur3 {
@@ -46,52 +46,8 @@ body {
 padding-bottom: 50px;
 }
 
-#logoFB {
+
+#logoViadeo {
     text-align: center;
     padding-top: 25px;
-}
-
-#circle1 {
-    width: 60px;
-    height:60px;
-    border-radius:50px;
-    color:#fff;
-    margin-left: 120px;
-    margin-top: 25px;
-    background:grey;
-}
-
-#circle2 {
-    width: 60px;
-    height:60px;
-    border-radius:50px;
-    color:#fff;
-    margin-left: 120px;
-    margin-top: 25px;
-    background:grey;
-}
-
-#circle3 {
-    width: 60px;
-    height:60px;
-    border-radius:50px;
-    color:#fff;
-    margin-left: 120px;
-    margin-top: 25px;
-    background:grey;
-}
-
-#titreFB {
-    text-align: center;
-    
-}
-
-#titreViadeo {
-    text-align: center;
-    
-}
-
-#titreLinkedin {
-    text-align: center;
-    
-}
+    }
