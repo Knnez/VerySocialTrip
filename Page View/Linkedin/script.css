@@ -2,10 +2,9 @@ html{
 	margin: 0;
 	padding: 0;
 }
-
-body{
-	width: 940px;
-	margin: 0 auto;
+.main-container{
+    width: 940px;
+    margin: 0 auto;
 }
 
 h1{
