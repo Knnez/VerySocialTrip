@@ -35,7 +35,7 @@ body {
 }
 
 #conteneur1 {
-    height: 600px;
+    height: 400px;
     width: 300px;
     border-width: 1px;
     border-style: solid;
@@ -46,7 +46,7 @@ body {
 }
 
 #conteneur2 {
-    height: 600px;
+    height: 400px;
     width: 300px;
     border-width: 1px;
     border-style: solid;
@@ -57,7 +57,6 @@ body {
 }
 
 #conteneur3 {
-    height: 600px;
     width: 300px;
     border-width: 1px;
     border-style: solid;
@@ -65,6 +64,7 @@ body {
     background-color:
         white;
     border-radius: 10%;
+padding-bottom: 50px;
 }
 
 #logoFB {
@@ -104,12 +104,12 @@ body {
 
 #titreFB {
     text-align: center;
-    margin-top: 450px;
+    
 }
 
 #titreViadeo {
     text-align: center;
-    margin-top: 450px;
+    
 }
 
 #titreLinkedin {
