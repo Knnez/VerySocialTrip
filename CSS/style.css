@@ -19,3 +19,100 @@ footer {
 }
 
 
+body {
+    margin: 0px;
+    background: #EFDD36;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: x-small;
+}
+
+#conteneur0 {
+    width: auto;
+    text-align: center;
+    display: flex;
+    justify-content: space-around;
+    margin: 30px 30px 50px 30px;
+}
+
+#conteneur1 {
+    height: 600px;
+    width: 300px;
+    border-width: 1px;
+    border-style: solid;
+    border-color: #EFDD36;
+    background-color: white;
+
+    border-radius: 10%;
+}
+
+#conteneur2 {
+    height: 600px;
+    width: 300px;
+    border-width: 1px;
+    border-style: solid;
+    border-color: #EFDD36;
+    background-color:
+        white;
+    border-radius: 10%;
+}
+
+#conteneur3 {
+    height: 600px;
+    width: 300px;
+    border-width: 1px;
+    border-style: solid;
+    border-color: #EFDD36;
+    background-color:
+        white;
+    border-radius: 10%;
+}
+
+#logoFB {
+    text-align: center;
+    padding-top: 25px;
+}
+
+#circle1 {
+    width: 60px;
+    height:60px;
+    border-radius:50px;
+    color:#fff;
+    margin-left: 120px;
+    margin-top: 25px;
+    background:grey;
+}
+
+#circle2 {
+    width: 60px;
+    height:60px;
+    border-radius:50px;
+    color:#fff;
+    margin-left: 120px;
+    margin-top: 25px;
+    background:grey;
+}
+
+#circle3 {
+    width: 60px;
+    height:60px;
+    border-radius:50px;
+    color:#fff;
+    margin-left: 120px;
+    margin-top: 25px;
+    background:grey;
+}
+
+#titreFB {
+    text-align: center;
+    margin-top: 450px;
+}
+
+#titreViadeo {
+    text-align: center;
+    margin-top: 450px;
+}
+
+#titreLinkedin {
+    text-align: center;
+    margin-top: 450px;
+}
