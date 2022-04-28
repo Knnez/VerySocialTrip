@@ -1,7 +1,13 @@
+@font-face {
+    font-family: "delius-regular";
+    src: url("../font/delius-regular-webfont.woff2") format ("woff2");
+	src: url("../font/delius-regular-webfont.woff") format ("woff");
+}
+
 .main-container{
     width: 940px;
     margin: 0 auto;
-	src: url("../../font/Delius-Regular.ttf") format("ttf");
+	font-family: "Delius-Regular"
 }
 
 .logo, .photo{
@@ -11,6 +17,10 @@
     float: left;
 	padding-top: 30px;
 	padding-bottom: 10px;
+}
+
+.logo-linkedIn {
+	margin-top: 100px;
 }
 
 h1, h2{
