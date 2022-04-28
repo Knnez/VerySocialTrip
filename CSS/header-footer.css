@@ -58,10 +58,6 @@ font-size:large;
   padding-left: 35px;
   text-shadow: 1px 1px #caba2b;
 }
-
-
-
-
 #conteneur0 {
     width: auto;
     text-align: center;
@@ -89,69 +85,94 @@ padding-bottom: 50px;
     background-color:
         white;
     border-radius: 10%;
-padding-bottom: 50px;
+padding-bottom: 45px;
 }
 
 #conteneur3 {
-   
-    height: 400px;
-    width: 250px;
+    width: 300px;
     border-width: 1px;
     border-style: solid;
     border-color: #EFDD36;
     background-color:
         white;
     border-radius: 10%;
-
+    padding-bottom: 39px;
 }
 
-
-#logoLinkedin {
+#logoFB {
     text-align: center;
     padding-top: 25px;
 }
 
-#circle1 {
-    width: 60px;
-    height:60px;
-    border-radius:50px;
-    color:#fff;
-    margin-left: 120px;
-    margin-top: 25px;
-    background:grey;
-}
-
-#circle2 {
-    width: 60px;
-    height:60px;
-    border-radius:50px;
-    color:#fff;
-    margin-left: 120px;
-    margin-top: 25px;
-    background:grey;
-}
-
-#circle3 {
-    width: 60px;
-    height:60px;
-    border-radius:50px;
-    color:#fff;
-    margin-left: 120px;
-    margin-top: 25px;
-    background:grey;
-}
-
-#titreFB {
+#logoLinkedin {
     text-align: center;
-    
+    padding-top: 45px;
 }
 
-#titreViadeo {
+#logoViadeo {
     text-align: center;
-    
+    padding-top: 25px;
 }
 
-#titreLinkedin {
-    text-align: center;
-    margin-top: 450px;
+#pageFB {
+    padding-top: 40px;
+    padding-bottom: 40px;
 }
+
+#pageViadeo {
+    padding-top: 40px;
+    padding-bottom: 42px;
+}
+
+#pageLinkedin {
+    padding-top: 50px;
+    padding-bottom: 35px;
+}
+
+#boutonFB {
+        display: inline-block;
+        background-color: purple;
+        border-radius: 10px;
+        border: 4px purple;
+        color: #eeeeee;
+        text-align: center;
+        font-size: 25px;
+        padding: 10px;
+        padding-left: 30px;
+        padding-right: 30px;
+        width: 150px;
+        cursor: pointer;
+        margin: 5px;
+      }
+
+#boutonViadeo {
+    display: inline-block;
+    background-color: orangered;
+    border-radius: 10px;
+    border: 4px orangered;
+    color: #eeeeee;
+    text-align: center;
+    font-size: 25px;
+    padding: 10px;
+    padding-left: 30px;
+    padding-right: 30px;
+    width: 150px;
+    cursor: pointer;
+    margin: 5px;
+  }
+
+  #boutonLinkedin {
+    display: inline-block;
+    background-color: blueviolet;
+    border-radius: 10px;
+    border: 4px blueviolet;
+    color: #eeeeee;
+    text-align: center;
+    font-size: 25px;
+    padding: 10px;
+    padding-left: 30px;
+    padding-right: 30px;
+    width: 150px;
+    cursor: pointer;
+    margin: 5px;
+  }
